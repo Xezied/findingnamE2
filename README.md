@@ -1,4 +1,5 @@
 # findingnamE2
+# Chứa code dùng để tìm kiếm người dùng
 "Tìm Kiếm Các Hàng trùng với tên đã nhập"
 
 Mục Tiêu
